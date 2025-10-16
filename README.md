@@ -7,36 +7,67 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdelrahman-Medhat&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![YouTube](https://img.shields.io/badge/AMS%20EduCode-red?style=flat&logo=youtube)](http://www.youtube.com/@AMSEduCode)  
 </div>
+<!-- 🌟 GitHub Profile README by Abdelrahman Medhat 🌟 -->
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abdelrahman+Medhat;Frontend+Developer+%7C+Content+Creator;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👋 About Me
-Hi, I’m **Abdelrahman Medhat** — a **Web Developer** & **Content Creator** who loves sharing what I learn in a simple, creative way.  
-I’m passionate about **Frontend Development**, **Freelancing**, and **building a strong personal brand** to inspire others.  
-I believe that learning and sharing knowledge can truly make a difference 🚀
+## 🧑‍💻 About Me
+Hi! I’m **Abdelrahman Medhat**, a passionate **Frontend Developer** and **Content Creator** from Egypt 🇪🇬.  
+I love sharing what I learn, building cool projects, and inspiring others to start their tech journey.  
+Currently, I’m focusing on **Frontend Development**, **Freelancing**, and **Building My Personal Brand** 🌱✨
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
+Here are the main technologies I’ve worked with:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode" alt="Tech Stack Icons" />
+</p>
 
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Python", "JavaScript" },
-    "WebTech" : { "HTML", "CSS" },
-    "Other" : { "Bash", "Markdown" },
-    "Editors" : { "VS Code" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
-  };
-}
+---
+
+## 🚀 Goals & Interests
+- 🌐 Frontend Development  
+- 💼 Freelancing & building real projects  
+- 📢 Growing my personal brand and helping beginners  
+- 📚 Always learning and sharing knowledge
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Medhat&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Medhat&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="http://www.youtube.com/@AMSEduCode" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/Abdelrahman-Medhat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote I Live By
+> *"Success doesn’t come from what you do occasionally, it comes from what you do consistently."* 🚀
+
+---
+
+<p align="center">
+  💻 Built with ❤️ by <strong>Abdelrahman Medhat</strong>
+</p>
+---
